@@ -1,0 +1,20 @@
+{
+  "type": "module",
+  "name": "git_submodule",
+  "version": "1.0.0",
+  "description": "",
+  "main": "reallyComplexCalculations.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/oscariquelme01/demo-submodules-son.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/oscariquelme01/demo-submodules-son/issues"
+  },
+  "homepage": "https://github.com/oscariquelme01/demo-submodules-son#readme"
+}
