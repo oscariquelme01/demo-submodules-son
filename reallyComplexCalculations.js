@@ -1,4 +1,4 @@
-export function addFive(n) {
+export default function addFive(n) {
   return n + 5
 }
 
