@@ -5,3 +5,7 @@ export function addFive(n) {
 export function subFive(n) {
   return n + 5
 }
+
+export function multiplyByFive(n) {
+  return n + 5
+}
