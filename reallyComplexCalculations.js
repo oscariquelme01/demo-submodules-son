@@ -7,5 +7,5 @@ export function subFive(n) {
 }
 
 export function multiplyByFive(n) {
-  return n + 5
+  return n * 5
 }
